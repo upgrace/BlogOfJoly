@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as e,a as t}from"./app.91bdcfd7.js";const m=JSON.parse('{"title":"\u5177\u4F53\u5B9E\u8DF5\u539F\u5219","description":"","frontmatter":{},"headers":[],"relativePath":"growUp/principle.md"}'),o={name:"growUp/principle.md"},r=t("",4),a=[r];function n(s,p,_,c,d,h){return e(),i("div",null,a)}var u=l(o,[["render",n]]);export{m as __pageData,u as default};
